@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419056334047",
+    "project_id": "thop-cdefa",
+    "storage_bucket": "thop-cdefa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419056334047:android:68684ec6188be569c6656a",
+        "android_client_info": {
+          "package_name": "com.example.thop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419056334047-rokt8aq398g38puhl3789t7s5usce2hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYpLfJmadAP_7Hhj4Ziu8Jq7ta2NomRjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419056334047-rokt8aq398g38puhl3789t7s5usce2hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
