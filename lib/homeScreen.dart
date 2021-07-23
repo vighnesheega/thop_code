@@ -57,20 +57,20 @@ class _HomeScreenState extends State<HomeScreen> {
                             isDrawerOpen = true;
                           });
                         }),
-                Column(
-                  children: [
-                    Text('Location'),
-                    Row(
-                      children: [
-                        Icon(
-                          Icons.location_on,
-                          color: Colors.blueAccent,
-                        ),
-                        Text('Hyderabad'),
-                      ],
-                    )
-                  ],
-                )
+                // Column(
+                //   children: [
+                //     Text('Location'),
+                //     Row(
+                //       children: [
+                //         Icon(
+                //           Icons.location_on,
+                //           color: Colors.blueAccent,
+                //         ),
+                //         Text('Hyderabad'),
+                //       ],
+                //     )
+                //   ],
+                // )
               ],
             ),
           ),
